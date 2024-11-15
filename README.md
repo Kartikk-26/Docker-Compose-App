@@ -1,7 +1,7 @@
 
 ---
 
-# 🚀 Docker Compose Multi-Container Application
+# 🚀 Docker Compose Multi-Container Application Project 
 
 This project demonstrates deploying a simple multi-container application using Docker Compose. The application includes a **React.js frontend** and a **Node.js backend** working together.
 
